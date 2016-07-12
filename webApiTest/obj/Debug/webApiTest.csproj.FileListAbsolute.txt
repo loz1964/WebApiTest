@@ -85,6 +85,5 @@ C:\Projects\WebApiTest\webApiTest\webApiTest\bin\Microsoft.Owin.Security.Google.
 C:\Projects\WebApiTest\webApiTest\webApiTest\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Projects\WebApiTest\webApiTest\webApiTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Projects\WebApiTest\webApiTest\webApiTest\bin\System.Web.Http.Owin.xml
-C:\Projects\WebApiTest\webApiTest\webApiTest\obj\Debug\webApiTest.csprojResolveAssemblyReference.cache
 C:\Projects\WebApiTest\webApiTest\webApiTest\obj\Debug\webApiTest.dll
 C:\Projects\WebApiTest\webApiTest\webApiTest\obj\Debug\webApiTest.pdb
